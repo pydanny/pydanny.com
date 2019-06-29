@@ -15,7 +15,7 @@
 
     <p
       class="author__intro"
-    >I'm Daniel Roy Greenfeld, and welcome to my blog. I write about Python, Django, and much more.</p>
+    >I'm Daniel Roy Greenfeld, and welcome to my blog. I write about Python, Django, JavaScript, and more.</p>
 
     <p class="author__links">
       <a href="//twitter.com/pydanny">Follow me on Twitter</a>
