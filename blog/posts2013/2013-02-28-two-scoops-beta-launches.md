@@ -18,9 +18,9 @@ title: Two Scoops of Django 1.5 Beta Released
 After thirty four days of hard work, [Audrey Roy](http://audreymroy.com)
 and I are proud to announce that we've released the **beta** of [Two
 Scoops of Django: Best Practices for Django
-1.5](http://django.2scoops.org). It's been a monumental effort, a labor
+1.5](https://twoscoopspress.org/products/two-scoops-of-django-1-5). It's been a monumental effort, a labor
 of love, and we hope you find our efforts worthy. You can buy it right
-now in e-book (PDF) form on the website: <http://django.2scoops.org>
+now in e-book (PDF) form on the website: <https://twoscoopspress.org/products/two-scoops-of-django-1-5>
 
 Two Scoops of Django: Best Practices for Django 1.5 is a compilation of
 best practices for the Django framework. Like any framework, Django has
@@ -35,7 +35,7 @@ experts from around the world. Reader contributions from advanced and
 beginning developers have also shaped the book, and we can't thank
 enough those who gave us their insights.
 
-[![image](https://s3.amazonaws.com/twoscoops/img/tsd-cover-beta.png)](http://django.2scoops.org/)
+[![image](https://s3.amazonaws.com/twoscoops/img/tsd-cover-beta.png)](https://twoscoopspress.org/products/two-scoops-of-django-1-5/)
 
 <a name="features"></a>
 What is different about the beta release?

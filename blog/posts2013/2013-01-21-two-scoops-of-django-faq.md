@@ -16,16 +16,16 @@ time_to_read: 5
 title: Two Scoops of Django FAQ
 ---
 
-[![image](https://s3.amazonaws.com/pydanny/frontispiece.png)](http://django.2scoops.org/)
+[![image](https://s3.amazonaws.com/pydanny/frontispiece.png)](https://twoscoopspress.org/products/two-scoops-of-django-1-5/)
 
 The launch of the [Two Scoops of Django: Best Practices for Django
-1.5](http://django.2scoops.org) book has gone pretty well. The response
+1.5](https://twoscoopspress.org/products/two-scoops-of-django-1-5) book has gone pretty well. The response
 has been almost entirely positive and sales have been pretty brisk.
 We've gotten a ton of great, constructive editorial feedback, which
 we're sorting through as we race towards the BETA release. Here are
 answers to the commonly asked questions:
 
-When can I buy the [book](http://django.2scoops.org) via PayPal?
+When can I buy the [book](https://twoscoopspress.org/products/two-scoops-of-django-1-5) via PayPal?
 ================================================================
 
 We will support PayPal in either the BETA or FINAL release of the book.
@@ -41,7 +41,7 @@ just want to support developers and students who don't have credit
 cards.
 
 **note:** While we could certainly write our own publishing platform,
-that would delay work on the [book](http://django.2scoops.org). ;-)
+that would delay work on the [book](https://twoscoopspress.org/products/two-scoops-of-django-1-5). ;-)
 
 When can I get a Kindle (mobi) or ePub version?
 ===============================================
@@ -49,7 +49,7 @@ When can I get a Kindle (mobi) or ePub version?
 Our plan is to support those formats in either the BETA or FINAL
 releases. In fact, I really love my
 [Kindle](http://www.amazon.com/gp/product/B007HCCNJU/?ie=UTF8&tag=ihpydanny-20).
-I can't wait to proof my own [book](http://django.2scoops.org) on my
+I can't wait to proof my own [book](https://twoscoopspress.org/products/two-scoops-of-django-1-5) on my
 favorite reading device.
 
 When can I get a print version?
@@ -82,13 +82,13 @@ spelling issues, and some bug fixes. Even after the FINAL version comes
 out, we'll continue to update the book. One of the advantages of
 self-published books is we have control of content.
 
-How much work went into the [book](http://django.2scoops.org)?
+How much work went into the [book](https://twoscoopspress.org/products/two-scoops-of-django-1-5)?
 ==============================================================
 
 [Audrey](http://audreymroy.com) and I put in hundreds of hours writing
 and testing the content. We worked 12-16 hour days for weeks. It was
 madness, but a glorious madness. We became like hermits and toiled on
-the [book](http://django.2scoops.org) while ignoring distractions like
+the [book](https://twoscoopspress.org/products/two-scoops-of-django-1-5) while ignoring distractions like
 sleep, food and consistent exercise.
 
 Our amazing technical reviewers also worked very hard to provide us with
@@ -169,5 +169,5 @@ price of $12. When you purchase the ALPHA, you get access to the BETA
 and FINAL versions when they are released.
 
 In case you're wondering, we are planning to increase the price of the
-[book](http://django.2scoops.org) when we release the BETA and FINAL
+[book](https://twoscoopspress.org/products/two-scoops-of-django-1-5) when we release the BETA and FINAL
 versions.

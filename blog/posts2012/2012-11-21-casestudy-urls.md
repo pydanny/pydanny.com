@@ -190,4 +190,4 @@ identifier, along with his name. I can change the name in the URL or
 even in the database, but so long as I don't modify the identifying
 part of the URL (`1m`), his information always shows up.
 
-[![image](petcheatsheets-url-example.png){.img-polaroidalign-center}](http://petcheatsheets.com)
+![image](../../src/assets/images/petcheatsheets-url-example.png)]

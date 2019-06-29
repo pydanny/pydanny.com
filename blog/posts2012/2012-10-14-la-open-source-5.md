@@ -113,8 +113,7 @@ This is not a job fair or way to get free developers services, and we
 don't want unnecessary distractions.
 
 On the other hand, if you want to help sponsor we mention you on the
-official event description, in social media and many other perks. Please
-contact us at <sponsors@laopensource.org>.
+official event description, in social media and many other perks. To bad this event occured years ago.
 
 In addition, we're considering future events that mix in business into
 our efforts. If you're interested in that sort of thing then stay tuned
@@ -131,7 +130,7 @@ In fact, our attendees are well-noted for their feverish support of
 sponsors. Developer-only open source events are rare in Los Angeles, so
 attendees are incredibly grateful to those who make the event possible.
 
-If interested, please contact us at <sponsors@laopensource.org>.
+If interested, keep in mind this event happened years ago.
 
 What do I need to bring?
 ========================

@@ -16,29 +16,29 @@ time_to_read: 2
 title: Our Django Book Has Launched
 ---
 
-[![image](https://s3.amazonaws.com/twoscoops/img/tsd-cover.png)](http://django.2scoops.org/)
+[![image](https://s3.amazonaws.com/twoscoops/img/tsd-cover.png)](https://twoscoopspress.org/products/two-scoops-of-django-1-5/)
 
 We ([Audrey Roy](http://audreymroy.com) and I) wrote a
-[book](http://django.2scoops.org) on Django! It's called **Two Scoops
+[book](https://twoscoopspress.org/products/two-scoops-of-django-1-5) on Django! It's called **Two Scoops
 of Django: Best Practices for Django 1.5**, and you can buy it right now
-in e-book (PDF) form on the website: <http://django.2scoops.org>.
+in e-book (PDF) form on the website: <https://twoscoopspress.org/products/two-scoops-of-django-1-5>.
 
 Django, like any framework, has tips, tricks, and pitfalls that aren't
 documented in one place. Experienced developers know this stuff, but
 gleaning it off the Internet takes a lot of time. We decided to take
 everything we know and write it down. This
-[book](http://django.2scoops.org) reflects a portion of what we
+[book](https://twoscoopspress.org/products/two-scoops-of-django-1-5) reflects a portion of what we
 documented, and if it does well we plan to follow it up with other
 references.
 
 If you've followed this blog or watched our talks you've know we've
 explained tons of Django and Python related examples. We enjoy using
 Django and Python to build stable, fast web applications quickly and
-efficiently. This is the [book](http://django.2scoops.org) we would have
+efficiently. This is the [book](https://twoscoopspress.org/products/two-scoops-of-django-1-5) we would have
 wanted while learning the intricacies of our tools, and then kept it
 handy for reference.
 
-In the [book](http://django.2scoops.org) we cover everything from
+In the [book](https://twoscoopspress.org/products/two-scoops-of-django-1-5) we cover everything from
 customizing the Django 1.5 User model, forms, views, templates,
 security, bottleneck analysis and so much more. We tie in third-party
 packages from the Django and Python community. We discuss the positive
@@ -55,9 +55,9 @@ if anyone knows how to address this issue to let us know at
 
 Even with an amazing cadre of technical reviewers, there is always the
 possibility of errors. We are going to be actively maintaining the
-[book](http://django.2scoops.org), so if you find a mistake, let us know
+[book](https://twoscoopspress.org/products/two-scoops-of-django-1-5), so if you find a mistake, let us know
 and we'll update it and send out an updated copy of the PDF to all
 buyers.
 
 If you'd like to buy the book (or learn more about it), you can do so
-here: <http://django.2scoops.org>
+here: <https://twoscoopspress.org/products/two-scoops-of-django-1-5>

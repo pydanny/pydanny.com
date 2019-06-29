@@ -16,8 +16,8 @@ title: We are not using PayPal
 ---
 
 In January [Audrey Roy](http://audreymroy.com) and I launched a
-[book](http://django.2scoops.org) about Django called [Two Scoops of
-Django: Best Practices for Django 1.5](http://django.2scoops.org). We
+[book](https://twoscoopspress.org/products/two-scoops-of-django-1-5) about Django called [Two Scoops of
+Django: Best Practices for Django 1.5](https://twoscoopspress.org/products/two-scoops-of-django-1-5). We
 decided to not use PayPal. Here's why:
 
 Open Source Events Get Burned By PayPal
