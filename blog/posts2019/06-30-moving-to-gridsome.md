@@ -19,8 +19,8 @@ title: Moving to Gridsome
 Outline:
 
 - I like writing code and thought this was going to be a fun, easy project. How hard is it to write a blog engine anyway?
-- My original Flask/SQLite3/Serverless design was really slow
-- Moved to slurping up generated Flask output into a static site. The compilation time to make this happen was measured in minutes. This made writing really annoying.
+- My original Flask/Markdown/Serverless design was really slow
+- Moved to slurping up generated Flask output into a static site. The compilation time to make this happen took minutes. This made writing new posts annoying.
 - Optimizing page/image loads is code I didn't feel like running
 
 TODO expand
@@ -30,6 +30,7 @@ TODO expand
 Requirements:
 
 - Must be a static site because Jamstack rocks
+- If not using .html extension, must easily redirect from .html to as not to annoy old readers
 - VueJS because it's my favorite frontend framework
 - Side note: Can I change my name to PyJsDanny?
 - Deploy on Netlify with Netlify CMS as a future option so I can edit posts on mobile devices
@@ -41,7 +42,7 @@ TODO expand
 - Python's markdown library is more foregiving than JavaScript's remark library
 - Find all the missing images
 - Fix broken links
-- Use netlify 
+- Use netlify
 
 TODO expand
 

@@ -18,8 +18,9 @@
     >I'm Daniel Roy Greenfeld, and welcome to my blog. I write about Python, Django, JavaScript, and more.</p>
 
     <p class="author__links">
-      <a href="//twitter.com/pydanny">Follow me on Twitter</a>
-      <a href="//github.com/pydanny">GitHub</a>
+      <a href="/tag/python">Python</a>
+      <a href="/tag/django">Django</a>
+      <a href="/books">Books</a>
 			<a href="/about">About</a>
     </p>
   </div>

@@ -5,9 +5,9 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: "pydanny.com",
+  siteName: "Inside the head of pydanny",
   siteDescription:
-    "I'm Daniel Roy Greenfeld, and welcome to my blog. I write about Python, Django, JavaScript, and more.",
+    "I'm Daniel Roy Greenfeld. I write about Python, Django, JavaScript, and more.",
 
   plugins: [
     {
