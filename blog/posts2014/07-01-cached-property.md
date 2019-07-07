@@ -172,4 +172,4 @@ contribution to the effort has been merely the encapsulation of the
 code, it's nice to know I may have some small part in the development
 of the language.
 
-![image](https://pydanny.com/static/directions_med.png)
+![image](../../src/assets/images/directions_med.png)

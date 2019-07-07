@@ -21,7 +21,7 @@ Today I want to talk about lists. Not for shopping, not the programming
 data type, but the display of items in both unordered and ordered
 fashion.
 
-[![Bullets faceoff](https://pydanny.com/static/bullets.png)](https://www.pydanny.com/markup-language-faceoff-lists.html)
+[![Bullets faceoff](../../src/assets/images/bullets.png)](https://www.pydanny.com/markup-language-faceoff-lists.html)
 
 Specifically this:
 

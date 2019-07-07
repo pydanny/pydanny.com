@@ -12,7 +12,7 @@ time_to_read: 4
 title: setup.py tricks
 ---
 
-![Setup.py tricks](https://pydanny.com/static/setup.png)
+![Setup.py tricks](../../src/assets/images/setup.png)
 
 Seasons greetings!
 

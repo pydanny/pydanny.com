@@ -13,7 +13,7 @@ time_to_read: 3
 title: Why Doesn't Python Have Switch/Case?
 ---
 
-[![Aliens](https://pydanny.com/static/aliens.png)](https://www.pydanny.com/static/aliens.png)
+[![Aliens](../../src/assets/images/aliens.png)](https://www.pydanny.com/static/aliens.png)
 
 Unlike every other programming language I've used before, Python does
 not have a switch or case statement. To get around this fact, we use

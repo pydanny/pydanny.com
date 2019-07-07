@@ -1,15 +1,15 @@
 ---
 category: django
-date: '2014-09-15'
+date: "2014-09-15"
 filename: posts2014/09-15-adding-user-id-to-form.md
 published: true
 slug: adding-django-form-instance-attributes
 tags:
-- python
-- django
-- howto
-- class-based-views
-- forms
+  - python
+  - django
+  - howto
+  - class-based-views
+  - forms
 timeToRead: 2
 time_to_read: 2
 title: Adding Django form instance attributes
@@ -22,7 +22,7 @@ example of how to do it in Class-Based Views.
 
 Assuming this form:
 
-``` python
+```python
 from django import forms
 
 from .models import MyModel
@@ -43,7 +43,7 @@ class MyForm(forms.ModelForm):
 Now that the form is defined, the view needs to inject the form with the
 user id:
 
-``` python
+```python
 from django.views.generic import UpdateView
 
 # this assumes that django-braces is installed
@@ -68,16 +68,15 @@ class MyUpdateView(LoginRequiredMixin, UpdateView):
         return kwargs
 ```
 
-Additional Notes
-================
+# Additional Notes
 
 You can use this technique with:
 
--   `forms.Form`
--   `forms.ModelForm`
--   `CreateView`
--   `FormView`
--   `UpdateView`
+- `forms.Form`
+- `forms.ModelForm`
+- `CreateView`
+- `FormView`
+- `UpdateView`
 
 As always, <http://ccbv.co.uk> is a great resource for deliving into
 Django forms.
@@ -88,17 +87,15 @@ to know how to do it outside that very useful tool. The reason being
 that attaching the `user` object or `user_id` is just one option out of
 many.
 
-django-vanilla-views
-====================
+# django-vanilla-views
 
 This should also work with
 [django-vanilla-views](http://django-vanilla-views.org), but I haven't
 tested it yet.
 
-[![image](https://pydanny.com/static/form-attributes.png)](https://twitter.com/audreyr)
+[![image](../../src/assets/images/form-attributes.png)](https://twitter.com/audreyr)
 
-See you at BarCamp Django SF!
-=============================
+# See you at BarCamp Django SF!
 
 On October 4th and 5th I'll be at [BarCamp Django
 SF](https://pydanny.com/barcamp-django-sf.html) if you want to talk

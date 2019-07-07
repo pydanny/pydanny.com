@@ -34,5 +34,5 @@ over the internet.
 
 Hasta pronto!
 
-[![image](https://pydanny.com/static/800px-Flag_of_Argentina.png){.align-center
+[![image](../../src/assets/images/800px-Flag_of_Argentina.png){.align-center
 width="292px" height="183px"}](http://en.wikipedia.org/wiki/Argentina)

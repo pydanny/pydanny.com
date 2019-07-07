@@ -1,17 +1,17 @@
 ---
 category: django
-date: '2018-02-01'
+date: "2018-02-01"
 description: Implementing a manual schema in Django REST Framework
 filename: posts2018/02-01-drf-manual-schema.md
 published: true
 slug: manual-schema-django-rest-framework
 tags:
-- python
-- django
-- django-rest-framework
-- cheatsheet
-- howto
-- coreapi
+  - python
+  - django
+  - django-rest-framework
+  - cheatsheet
+  - howto
+  - coreapi
 timeToRead: 1
 time_to_read: 1
 title: Implemementing Manual Schema with Django REST Framework
@@ -33,7 +33,7 @@ decent understand of DRF, you can make custom views work with Core API.
 
 First, the serializer:
 
-``` python
+```python
 # serializers.py
 from django.core.mail import send_mail
 from markdown import markdown
@@ -45,10 +45,10 @@ class EmailSerializer(serializers.Serializer):
         child=serializers.EmailField(),
         required=True
     )
-    from_email = serializers.EmailField(required=True)    
+    from_email = serializers.EmailField(required=True)
     subject = serializers.CharField(required=True)
-    message = serializers.CharField(required=True) 
-    htmlize = serializer.BooleanField(required=False, default=False)  
+    message = serializers.CharField(required=True)
+    htmlize = serializer.BooleanField(required=False, default=False)
 
     def create(self, validated_data):
         if validated_data['htmlize']:
@@ -58,7 +58,7 @@ class EmailSerializer(serializers.Serializer):
 
 Now the view:
 
-``` Python
+```Python
 # views.py
 import coreapi
 import coreschema
@@ -84,7 +84,7 @@ class EmailCreateAPIView(APIView):
             required=True,
             location="form",
             schema=coreschema.String()
-        ), 
+        ),
         coreapi.Field(
             "subject",
             required=False,
@@ -96,7 +96,7 @@ class EmailCreateAPIView(APIView):
             required=False,
             location="form",
             schema=coreschema.String()
-        ), 
+        ),
     ])
 
     def post(self, request, format=None):
@@ -107,13 +107,9 @@ class EmailCreateAPIView(APIView):
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 ```
 
-Stay Tuned!
-===========
+# Stay Tuned!
 
 I've decided to start posting my coding notes online again. These
 aren't tutorials, and may not be beginner friendly. Rather, these are
 code examples extracted from production systems that I'm putting up in
 a location I can reference easily that's 100% under my control.
-
-If you like what I'm doing, hit me up on
-[Patreon](https://www.patreon.com/danielroygreenfeld).

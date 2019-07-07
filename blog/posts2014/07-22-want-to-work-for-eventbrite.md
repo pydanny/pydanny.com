@@ -78,5 +78,5 @@ post.
 
 Good luck!
 
-[![image](https://pydanny.com/static/eventbrite_logo_gradient_v2.png){.align-center
+[![image](../../src/assets/images/eventbrite_logo_gradient_v2.png){.align-center
 width="300px" height="116px"}](https://www.eventbrite.com)

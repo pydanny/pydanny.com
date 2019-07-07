@@ -38,7 +38,7 @@ Resolutions Accomplished in 2014
 -   Took a fun class with Audrey. We did woodshop!
 -   Learned how to do [Aú Batido](http://en.wikipedia.org/wiki/L-kick)!
 
-[![image](https://pydanny.com/static/aubatido.jpg)](https://pydanny.com/static/aubatido.jpg)
+[![image](../../src/assets/images/aubatido.jpg)](../../src/assets/images/aubatido.jpg)
 
 General Accomplishments
 =======================

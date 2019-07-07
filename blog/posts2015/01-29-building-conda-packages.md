@@ -141,7 +141,7 @@ $ binstar upload win-64/cookiecutter-0.9.1-BUILDNUM.tar.bz2
 work](https://binstar.org/pydanny/cookiecutter) or take a look right
 below at what's on [binstar](http://binstar.org):
 
-[![image](https://pydanny.com/static/packages.png){.align-center
+[![image](../../src/assets/images/packages.png){.align-center
 width="500px"
 height="138px"}](https://binstar.org/search?q=cookiecutter)
 
