@@ -4,9 +4,28 @@
 
 My new gridsome-powered blog
 
-# TODO
+## Installation
+
+```
+npm install
+```
+
+## Running locally
+
+```
+npm run develop
+```
+
+## Exploring the Data
+
+```
+npm run explore
+``
+
+## TODO
 
 - Add installation instructions
 - Get RSS feeds working
 - Add section for listing awesome books
 - Add event calendar
+```
